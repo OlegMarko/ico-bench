@@ -1,0 +1,23 @@
+{
+    "name": "fixik/icobench",
+    "description": "Laravel package for the ICObench API",
+    "keywords": ["icobench", "ico-bench", "laravel"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oleg Marko",
+            "email": "olegmarko7@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fixik\\ICOBench\\": "src"
+        }
+    }
+}

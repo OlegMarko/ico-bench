@@ -1,14 +1,14 @@
 <p align="center">Laravel Package for ICObench API</p>
 
 <p align="center">
-<a href="https://packagist.org/packages/fixik/ico-bench"><img src="https://poser.pugx.org/fixik/ico-bench/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/fixik/ico-bench"><img src="https://poser.pugx.org/fixik/ico-bench/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/fixik/ico-bench"><img src="https://poser.pugx.org/fixik/ico-bench/license.svg" alt="License"></a>
+<a href="https://packagist.org/packages/fixik/icobench"><img src="https://poser.pugx.org/fixik/icobench/d/total.svg" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/fixik/icobench"><img src="https://poser.pugx.org/fixik/icobench/v/stable.svg" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/fixik/icobench"><img src="https://poser.pugx.org/fixik/icobench/license.svg" alt="License"></a>
 </p>
 
 ## Installation
 
-`composer require fixik/ico-bench`
+`composer require fixik/icobench`
 
 add provider to config of app.php file
 ```php

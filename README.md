@@ -10,9 +10,16 @@
 
 `composer require fixik/icobench`
 
-add provider to config of app.php file
+- add provider to config of app.php file
+
 ```php
 Fixik\ICOBench\ICOBenchAPIServiceProvider::class,
+```
+- add keys to .env file
+
+```
+ICO_BENCH_PRIVATE_API_KEY=
+ICO_BENCH_PUBLIC_API_KEY=
 ```
 
 `php artisan vendor:pablish`
